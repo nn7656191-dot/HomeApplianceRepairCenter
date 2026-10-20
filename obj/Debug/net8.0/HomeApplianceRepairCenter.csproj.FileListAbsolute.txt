@@ -1,0 +1,14 @@
+D:\HomeApplianceRepairCenter\bin\Debug\net8.0\HomeApplianceRepairCenter.exe
+D:\HomeApplianceRepairCenter\bin\Debug\net8.0\HomeApplianceRepairCenter.deps.json
+D:\HomeApplianceRepairCenter\bin\Debug\net8.0\HomeApplianceRepairCenter.runtimeconfig.json
+D:\HomeApplianceRepairCenter\bin\Debug\net8.0\HomeApplianceRepairCenter.dll
+D:\HomeApplianceRepairCenter\bin\Debug\net8.0\HomeApplianceRepairCenter.pdb
+D:\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.AssemblyInfoInputs.cache
+D:\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.AssemblyInfo.cs
+D:\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.csproj.CoreCompileInputs.cache
+D:\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.dll
+D:\HomeApplianceRepairCenter\obj\Debug\net8.0\refint\HomeApplianceRepairCenter.dll
+D:\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.pdb
+D:\HomeApplianceRepairCenter\obj\Debug\net8.0\HomeApplianceRepairCenter.genruntimeconfig.cache
+D:\HomeApplianceRepairCenter\obj\Debug\net8.0\ref\HomeApplianceRepairCenter.dll
